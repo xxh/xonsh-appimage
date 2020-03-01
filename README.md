@@ -12,6 +12,7 @@ cd /result
 
 * https://github.com/niess/linuxdeploy-plugin-python/releases
 * https://github.com/niess/linuxdeploy-plugin-python/issues/12 
+* https://github.com/pypa/manylinux
 
 ## Thanks
 * @niess for https://github.com/niess/linuxdeploy-plugin-python/
