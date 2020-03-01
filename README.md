@@ -12,3 +12,7 @@ cd /result
 
 * https://github.com/niess/linuxdeploy-plugin-python/releases
 * https://github.com/niess/linuxdeploy-plugin-python/issues/12 
+
+## Thanks
+* @niess for https://github.com/niess/linuxdeploy-plugin-python/
+* @probonopd for https://github.com/AppImage
