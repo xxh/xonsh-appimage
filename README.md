@@ -1,7 +1,7 @@
 ## Building `xonsh.AppImage`
 ### Build on manylinux2010 Docker image (PEP 571)
 
-https://github.com/xxh/linuxdeploy-plugin-python
+https://github.com/xxh/xxh-appimage
 
 ### Build on Ubuntu 16.04
 ```shell script
