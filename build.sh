@@ -1,6 +1,6 @@
 #!/bin/bash
 
-git clone https://github.com/niess/python-appimage
+git clone https://github.com/xxh/python-appimage
 cd python-appimage
 
 echo Build xonsh release
